@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  "Verdana", sans-serif;
+    }
+    body{
+        background-color: #6082b4;
+    color: #22181c;
+    }
+    header{
+        text-align: center;
+        background-color: #2cb3d4;
+        color: #22181c;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .mainmenu{
+        margin-left: 0px;
+        background-color: rgb(14, 13, 13);
+        color: #f6e8ea;
+        width: 200px;
+    }
+    .menu{
+        margin-left: 0px;
+        color: #0e0d0d;
+        text-decoration: none;
+    }
+    .link{
+        color:rgb(73, 255, 73);
+    }
+    ol{
+        list-style-type: circles; 
+        margin-left: -5px; 
+        text-decoration: none;
+    }
+    article{
+        margin-top: 45px;
+        margin-left: 80px;
+    }
+    footer{
+        margin-left: -90px;
+        background-color: #770910;
+        margin-top: 10px;
+        padding-left: 0px;
+        padding: 80px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
